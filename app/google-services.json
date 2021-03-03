@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "913807954205",
+    "firebase_url": "https://formula1q-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "formula1q",
+    "storage_bucket": "formula1q.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913807954205:android:d7262b2c8ad60855d551f4",
+        "android_client_info": {
+          "package_name": "pt.ipp.estg.formula1q"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913807954205-00bkr64k3efospdr5ftmqpk80q1n01cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ipp.estg.formula1q",
+            "certificate_hash": "8f4eb8abf743a3d086a6a8fd44e4abaee7019613"
+          }
+        },
+        {
+          "client_id": "913807954205-2sa8rrfod7ufmpsrtfmg22182lcs9hia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.ipp.estg.formula1q",
+            "certificate_hash": "81088383a49600d861361d5605f3f4de6e58374c"
+          }
+        },
+        {
+          "client_id": "913807954205-cuvmqdk54n0vqhkp8tcv8aq4pfv844g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvLDUWqvP3AHDXwmhaW7YOro2ikCmn4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913807954205-cuvmqdk54n0vqhkp8tcv8aq4pfv844g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
